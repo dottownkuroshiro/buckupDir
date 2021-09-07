@@ -10,7 +10,7 @@ from tkinter.constants import BOTTOM
 from tkinter import filedialog
 from pip._internal import self_outdated_check
 from test.test_decimal import file
-from _datetime import datetime
+from datetime import datetime
 from test.test_unicode_file_functions import filenames
 import shutil
 from tkinter.scrolledtext import ScrolledText
